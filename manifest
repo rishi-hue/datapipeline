@@ -1,0 +1,4 @@
+{"name":"DynamoDB-export","version":3,
+"entries": [
+{"url":"s3://e2e-datalake-demo-new/raw-zone/%20batch/batch-data/2022-10-15-20-33-38/f7cc77bf-7c7d-402e-ba55-86e34bdce5ed","mandatory":true}
+]}
