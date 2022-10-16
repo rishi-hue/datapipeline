@@ -1,4 +1,4 @@
-# datapipeline
+# Building a Data Pipeline on AWS
 
 We use Amazon DynamoDB and made some fake data to populate it.
 I configured data pipeline from dynamo db to s3 bucket. 
